@@ -4,8 +4,8 @@
 ╔══════════════════════════════════════════════════════════════════╗
 ║  $ ./whoami                                                      ║
 ║  > Shantanu Mitkari                                              ║
-║  > DevOps Engineer · AI Infrastructure Engineer · Backend Eng   ║
-║  > MS CS @ CSUF  ·  Amdocs  ·  Los Angeles, CA                  ║
+║  > DevOps Engineer · AI Infrastructure Engineer · Backend Eng    ║
+║  > MS CS @ CSUF  ·  Amdocs  ·  Los Angeles, CA                   ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
